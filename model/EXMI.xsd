@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xsd:schema xmlns:E="http://www.example.org/E" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/E">
+  <xsd:import namespace="http://www.omg.org/XMI" schemaLocation="platform:/plugin/org.eclipse.emf.ecore/model/XMI.xsd"/>
+  <xsd:complexType name="Root">
+    <xsd:choice maxOccurs="unbounded" minOccurs="0">
+      <xsd:element name="a" type="E:A"/>
+      <xsd:element ref="xmi:Extension"/>
+    </xsd:choice>
+    <xsd:attribute ref="xmi:id"/>
+    <xsd:attributeGroup ref="xmi:ObjectAttribs"/>
+    <xsd:attribute name="RootAttr" type="xsd:string"/>
+  </xsd:complexType>
+  <xsd:element name="Root" type="E:Root"/>
+  <xsd:complexType name="A">
+    <xsd:choice maxOccurs="unbounded" minOccurs="0">
+      <xsd:element name="b" type="E:B"/>
+      <xsd:element name="a" type="E:E"/>
+      <xsd:element ref="xmi:Extension"/>
+    </xsd:choice>
+    <xsd:attribute ref="xmi:id"/>
+    <xsd:attributeGroup ref="xmi:ObjectAttribs"/>
+    <xsd:attribute name="ID" type="xsd:int" use="required"/>
+    <xsd:attribute name="att1" type="xsd:int"/>
+    <xsd:attribute name="att2" type="xsd:int"/>
+    <xsd:attribute name="att3" type="xsd:string"/>
+  </xsd:complexType>
+  <xsd:element name="A" type="E:A"/>
+  <xsd:complexType name="A2">
+    <xsd:complexContent>
+      <xsd:extension base="E:A">
+        <xsd:choice maxOccurs="unbounded" minOccurs="0">
+          <xsd:element name="f" type="E:F"/>
+        </xsd:choice>
+        <xsd:attribute name="newAttribute" type="xsd:string"/>
+      </xsd:extension>
+    </xsd:complexContent>
+  </xsd:complexType>
+  <xsd:element name="A2" type="E:A2"/>
+  <xsd:complexType name="A1">
+    <xsd:complexContent>
+      <xsd:extension base="E:A">
+        <xsd:attribute name="newAttribute" type="xsd:string"/>
+      </xsd:extension>
+    </xsd:complexContent>
+  </xsd:complexType>
+  <xsd:element name="A1" type="E:A1"/>
+  <xsd:complexType name="B">
+    <xsd:choice maxOccurs="unbounded" minOccurs="0">
+      <xsd:element name="c" type="E:C"/>
+      <xsd:element name="d" type="E:D"/>
+      <xsd:element ref="xmi:Extension"/>
+    </xsd:choice>
+    <xsd:attribute ref="xmi:id"/>
+    <xsd:attributeGroup ref="xmi:ObjectAttribs"/>
+    <xsd:attribute name="newAttribute" type="xsd:int" use="required"/>
+    <xsd:attribute name="x" type="xsd:string"/>
+  </xsd:complexType>
+  <xsd:element name="B" type="E:B"/>
+  <xsd:complexType name="C">
+    <xsd:choice maxOccurs="unbounded" minOccurs="0">
+      <xsd:element ref="xmi:Extension"/>
+    </xsd:choice>
+    <xsd:attribute ref="xmi:id"/>
+    <xsd:attributeGroup ref="xmi:ObjectAttribs"/>
+    <xsd:attribute name="intAttr" type="xsd:int" use="required"/>
+    <xsd:attribute name="newAttribute" type="xsd:int"/>
+  </xsd:complexType>
+  <xsd:element name="C" type="E:C"/>
+  <xsd:complexType name="D">
+    <xsd:choice maxOccurs="unbounded" minOccurs="0">
+      <xsd:element ref="xmi:Extension"/>
+    </xsd:choice>
+    <xsd:attribute ref="xmi:id"/>
+    <xsd:attributeGroup ref="xmi:ObjectAttribs"/>
+    <xsd:attribute name="intAttr" type="xsd:int" use="required"/>
+    <xsd:attribute name="newAttribute" type="xsd:string"/>
+  </xsd:complexType>
+  <xsd:element name="D" type="E:D"/>
+  <xsd:complexType name="E">
+    <xsd:choice maxOccurs="unbounded" minOccurs="0">
+      <xsd:element ref="xmi:Extension"/>
+    </xsd:choice>
+    <xsd:attribute ref="xmi:id"/>
+    <xsd:attributeGroup ref="xmi:ObjectAttribs"/>
+    <xsd:attribute name="ID" type="xsd:int" use="required"/>
+    <xsd:attribute name="att1" type="xsd:int"/>
+    <xsd:attribute name="att2" type="xsd:int"/>
+    <xsd:attribute name="att3" type="xsd:string"/>
+  </xsd:complexType>
+  <xsd:element name="E" type="E:E"/>
+  <xsd:complexType name="F">
+    <xsd:choice maxOccurs="unbounded" minOccurs="0">
+      <xsd:element ref="xmi:Extension"/>
+    </xsd:choice>
+    <xsd:attribute ref="xmi:id"/>
+    <xsd:attributeGroup ref="xmi:ObjectAttribs"/>
+    <xsd:attribute name="newAttribute" type="xsd:string"/>
+  </xsd:complexType>
+  <xsd:element name="F" type="E:F"/>
+</xsd:schema>

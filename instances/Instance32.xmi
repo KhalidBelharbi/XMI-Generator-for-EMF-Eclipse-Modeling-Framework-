@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<E:Root xmi:version="2.0"
+ xmlns:xmi="http://www.omg.org/XMI" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:E="http://www.example.org/E" RootAttr= "RandomValue6508" >
+<a  ID= "8409"  att1= "1516"  att2= "6987"  att3= "RandomValue5261" >
+<b  newAttribute= "2828"  x= "RandomValue3252" >
+<c  intAttr= "4508"  newAttribute= "7818" >
+</c>
+<c  intAttr= "7811"  newAttribute= "6225" >
+</c>
+<c  intAttr= "2749"  newAttribute= "3700" >
+</c>
+<c  intAttr= "3853"  newAttribute= "9855" >
+</c>
+<c  intAttr= "2944"  newAttribute= "1274" >
+</c>
+<d  intAttr= "2731"  newAttribute= "RandomValue8986" >
+</d>
+<d  intAttr= "7935"  newAttribute= "RandomValue6810" >
+</d>
+<d  intAttr= "9288"  newAttribute= "RandomValue1865" >
+</d>
+<d  intAttr= "6763"  newAttribute= "RandomValue2574" >
+</d>
+<d  intAttr= "4995"  newAttribute= "RandomValue3837" >
+</d>
+<d  intAttr= "925"  newAttribute= "RandomValue2925" >
+</d>
+</b>
+<b  newAttribute= "9967"  x= "RandomValue1329" >
+<c  intAttr= "9259"  newAttribute= "5298" >
+</c>
+<c  intAttr= "4139"  newAttribute= "5220" >
+</c>
+<c  intAttr= "2442"  newAttribute= "4819" >
+</c>
+<c  intAttr= "7190"  newAttribute= "7002" >
+</c>
+<c  intAttr= "4204"  newAttribute= "1342" >
+</c>
+<d  intAttr= "6031"  newAttribute= "RandomValue2443" >
+</d>
+<d  intAttr= "2647"  newAttribute= "RandomValue8071" >
+</d>
+<d  intAttr= "8222"  newAttribute= "RandomValue6930" >
+</d>
+<d  intAttr= "935"  newAttribute= "RandomValue255" >
+</d>
+<d  intAttr= "1208"  newAttribute= "RandomValue7604" >
+</d>
+<d  intAttr= "3421"  newAttribute= "RandomValue9065" >
+</d>
+</b>
+</a>
+<a  ID= "2887"  att1= "7741"  att2= "7393"  att3= "RandomValue3729" >
+<b  newAttribute= "7022"  x= "RandomValue2954" >
+<c  intAttr= "6951"  newAttribute= "1028" >
+</c>
+</b>
+</a>
+<a  ID= "9008"  att1= "6458"  att2= "4274"  att3= "RandomValue4380" >
+<b  newAttribute= "6561"  x= "RandomValue7950" >
+<c  intAttr= "4720"  newAttribute= "1457" >
+</c>
+</b>
+<b  newAttribute= "8389"  x= "RandomValue5105" >
+<c  intAttr= "188"  newAttribute= "2848" >
+</c>
+<c  intAttr= "9854"  newAttribute= "2849" >
+</c>
+<c  intAttr= "5098"  newAttribute= "5850" >
+</c>
+<c  intAttr= "9520"  newAttribute= "8602" >
+</c>
+<c  intAttr= "4772"  newAttribute= "3728" >
+</c>
+<c  intAttr= "4075"  newAttribute= "8658" >
+</c>
+<c  intAttr= "5993"  newAttribute= "5105" >
+</c>
+<d  intAttr= "9020"  newAttribute= "RandomValue7554" >
+</d>
+<d  intAttr= "8225"  newAttribute= "RandomValue9350" >
+</d>
+<d  intAttr= "7187"  newAttribute= "RandomValue8119" >
+</d>
+<d  intAttr= "6041"  newAttribute= "RandomValue781" >
+</d>
+</b>
+</a>
+</E:Root>

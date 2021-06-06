@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<E:Root xmi:version="2.0"
+ xmlns:xmi="http://www.omg.org/XMI" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:E="http://www.example.org/E" RootAttr= "RandomValue2133" >
+<a  ID= "6154"  att1= "4103"  att2= "5342"  att3= "RandomValue4019" >
+<b  newAttribute= "4641"  x= "RandomValue5647" >
+<c  intAttr= "3955"  newAttribute= "5172" >
+</c>
+<c  intAttr= "5814"  newAttribute= "5153" >
+</c>
+<c  intAttr= "6019"  newAttribute= "4444" >
+</c>
+<c  intAttr= "883"  newAttribute= "6722" >
+</c>
+<c  intAttr= "127"  newAttribute= "8942" >
+</c>
+<c  intAttr= "2181"  newAttribute= "4495" >
+</c>
+<d  intAttr= "6182"  newAttribute= "RandomValue9878" >
+</d>
+<d  intAttr= "6942"  newAttribute= "RandomValue834" >
+</d>
+</b>
+<b  newAttribute= "5233"  x= "RandomValue2410" >
+<c  intAttr= "1589"  newAttribute= "7602" >
+</c>
+<d  intAttr= "3923"  newAttribute= "RandomValue5900" >
+</d>
+<d  intAttr= "2218"  newAttribute= "RandomValue1392" >
+</d>
+<d  intAttr= "4135"  newAttribute= "RandomValue198" >
+</d>
+<d  intAttr= "9040"  newAttribute= "RandomValue9020" >
+</d>
+<d  intAttr= "8631"  newAttribute= "RandomValue3968" >
+</d>
+<d  intAttr= "2944"  newAttribute= "RandomValue1514" >
+</d>
+</b>
+</a>
+<a  ID= "4368"  att1= "5718"  att2= "6124"  att3= "RandomValue4452" >
+</a>
+</E:Root>

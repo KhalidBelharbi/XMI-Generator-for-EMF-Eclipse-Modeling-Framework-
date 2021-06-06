@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<E:Root xmi:version="2.0"
+ xmlns:xmi="http://www.omg.org/XMI" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:E="http://www.example.org/E" RootAttr= "RandomValue1883" >
+<a  ID= "5396"  att1= "2450"  att2= "4041"  att3= "RandomValue6204" >
+</a>
+<a  ID= "6434"  att1= "7043"  att2= "6909"  att3= "RandomValue9390" >
+<b  newAttribute= "3292"  x= "RandomValue3442" >
+<d  intAttr= "4833"  newAttribute= "RandomValue100" >
+</d>
+<d  intAttr= "3061"  newAttribute= "RandomValue53" >
+</d>
+<d  intAttr= "4939"  newAttribute= "RandomValue710" >
+</d>
+<d  intAttr= "1024"  newAttribute= "RandomValue959" >
+</d>
+<d  intAttr= "5943"  newAttribute= "RandomValue5765" >
+</d>
+<d  intAttr= "5541"  newAttribute= "RandomValue4459" >
+</d>
+</b>
+<b  newAttribute= "5491"  x= "RandomValue9298" >
+<c  intAttr= "1669"  newAttribute= "808" >
+</c>
+<c  intAttr= "5434"  newAttribute= "9029" >
+</c>
+<c  intAttr= "1030"  newAttribute= "7212" >
+</c>
+<c  intAttr= "9071"  newAttribute= "7314" >
+</c>
+<c  intAttr= "2188"  newAttribute= "6651" >
+</c>
+<c  intAttr= "8208"  newAttribute= "6035" >
+</c>
+<c  intAttr= "5149"  newAttribute= "9104" >
+</c>
+<c  intAttr= "8624"  newAttribute= "7709" >
+</c>
+<c  intAttr= "276"  newAttribute= "6601" >
+</c>
+<d  intAttr= "5314"  newAttribute= "RandomValue9663" >
+</d>
+</b>
+<b  newAttribute= "9671"  x= "RandomValue4521" >
+<c  intAttr= "6621"  newAttribute= "6818" >
+</c>
+<d  intAttr= "1846"  newAttribute= "RandomValue9005" >
+</d>
+</b>
+<b  newAttribute= "3346"  x= "RandomValue8611" >
+<c  intAttr= "8244"  newAttribute= "9034" >
+</c>
+<c  intAttr= "7322"  newAttribute= "6269" >
+</c>
+<d  intAttr= "3722"  newAttribute= "RandomValue5356" >
+</d>
+<d  intAttr= "8352"  newAttribute= "RandomValue8581" >
+</d>
+<d  intAttr= "9387"  newAttribute= "RandomValue592" >
+</d>
+</b>
+<b  newAttribute= "4362"  x= "RandomValue93" >
+<c  intAttr= "9288"  newAttribute= "9260" >
+</c>
+<c  intAttr= "1647"  newAttribute= "8696" >
+</c>
+<c  intAttr= "8993"  newAttribute= "2450" >
+</c>
+<d  intAttr= "1753"  newAttribute= "RandomValue311" >
+</d>
+<d  intAttr= "5625"  newAttribute= "RandomValue7205" >
+</d>
+<d  intAttr= "4420"  newAttribute= "RandomValue6552" >
+</d>
+<d  intAttr= "6692"  newAttribute= "RandomValue8477" >
+</d>
+<d  intAttr= "662"  newAttribute= "RandomValue498" >
+</d>
+<d  intAttr= "313"  newAttribute= "RandomValue385" >
+</d>
+<d  intAttr= "8413"  newAttribute= "RandomValue898" >
+</d>
+<d  intAttr= "78"  newAttribute= "RandomValue2798" >
+</d>
+<d  intAttr= "3679"  newAttribute= "RandomValue4218" >
+</d>
+</b>
+<b  newAttribute= "4109"  x= "RandomValue7806" >
+<c  intAttr= "5382"  newAttribute= "9100" >
+</c>
+<c  intAttr= "4652"  newAttribute= "9717" >
+</c>
+<c  intAttr= "4009"  newAttribute= "9687" >
+</c>
+<c  intAttr= "9989"  newAttribute= "7041" >
+</c>
+</b>
+</a>
+<a  ID= "1960"  att1= "8412"  att2= "8797"  att3= "RandomValue8106" >
+<b  newAttribute= "6945"  x= "RandomValue5438" >
+<c  intAttr= "8153"  newAttribute= "2649" >
+</c>
+<c  intAttr= "4574"  newAttribute= "9018" >
+</c>
+<c  intAttr= "9537"  newAttribute= "941" >
+</c>
+<c  intAttr= "7319"  newAttribute= "6239" >
+</c>
+<c  intAttr= "7568"  newAttribute= "5791" >
+</c>
+<c  intAttr= "2291"  newAttribute= "9" >
+</c>
+<c  intAttr= "3736"  newAttribute= "5646" >
+</c>
+<c  intAttr= "6976"  newAttribute= "1311" >
+</c>
+<d  intAttr= "4437"  newAttribute= "RandomValue5048" >
+</d>
+<d  intAttr= "1943"  newAttribute= "RandomValue3855" >
+</d>
+<d  intAttr= "9416"  newAttribute= "RandomValue2981" >
+</d>
+<d  intAttr= "7480"  newAttribute= "RandomValue8177" >
+</d>
+<d  intAttr= "4052"  newAttribute= "RandomValue6522" >
+</d>
+</b>
+<b  newAttribute= "4806"  x= "RandomValue1913" >
+<c  intAttr= "2649"  newAttribute= "98" >
+</c>
+<d  intAttr= "5232"  newAttribute= "RandomValue8836" >
+</d>
+</b>
+<b  newAttribute= "5991"  x= "RandomValue6052" >
+<c  intAttr= "8476"  newAttribute= "702" >
+</c>
+<c  intAttr= "8047"  newAttribute= "2594" >
+</c>
+<c  intAttr= "9287"  newAttribute= "5426" >
+</c>
+<c  intAttr= "6235"  newAttribute= "4190" >
+</c>
+<c  intAttr= "9469"  newAttribute= "7154" >
+</c>
+<c  intAttr= "7926"  newAttribute= "5226" >
+</c>
+<c  intAttr= "2729"  newAttribute= "81" >
+</c>
+<c  intAttr= "4684"  newAttribute= "4849" >
+</c>
+<c  intAttr= "7501"  newAttribute= "5309" >
+</c>
+<d  intAttr= "8057"  newAttribute= "RandomValue5530" >
+</d>
+</b>
+<b  newAttribute= "9769"  x= "RandomValue7581" >
+<c  intAttr= "3628"  newAttribute= "649" >
+</c>
+<c  intAttr= "5195"  newAttribute= "1567" >
+</c>
+<c  intAttr= "6528"  newAttribute= "5897" >
+</c>
+<c  intAttr= "4499"  newAttribute= "4637" >
+</c>
+<c  intAttr= "437"  newAttribute= "2249" >
+</c>
+<c  intAttr= "7591"  newAttribute= "6070" >
+</c>
+<c  intAttr= "2893"  newAttribute= "8477" >
+</c>
+<d  intAttr= "9102"  newAttribute= "RandomValue5622" >
+</d>
+<d  intAttr= "8904"  newAttribute= "RandomValue2602" >
+</d>
+<d  intAttr= "6829"  newAttribute= "RandomValue558" >
+</d>
+<d  intAttr= "214"  newAttribute= "RandomValue1598" >
+</d>
+<d  intAttr= "1988"  newAttribute= "RandomValue8083" >
+</d>
+<d  intAttr= "8124"  newAttribute= "RandomValue9458" >
+</d>
+<d  intAttr= "8411"  newAttribute= "RandomValue8320" >
+</d>
+</b>
+<b  newAttribute= "1341"  x= "RandomValue8288" >
+<c  intAttr= "8208"  newAttribute= "2596" >
+</c>
+<c  intAttr= "6326"  newAttribute= "4410" >
+</c>
+<c  intAttr= "3192"  newAttribute= "8334" >
+</c>
+<c  intAttr= "4670"  newAttribute= "2082" >
+</c>
+<c  intAttr= "9569"  newAttribute= "8301" >
+</c>
+<c  intAttr= "833"  newAttribute= "2578" >
+</c>
+<d  intAttr= "4673"  newAttribute= "RandomValue9030" >
+</d>
+<d  intAttr= "1431"  newAttribute= "RandomValue2515" >
+</d>
+<d  intAttr= "7687"  newAttribute= "RandomValue4096" >
+</d>
+</b>
+<b  newAttribute= "4728"  x= "RandomValue3242" >
+<c  intAttr= "2175"  newAttribute= "4180" >
+</c>
+<c  intAttr= "500"  newAttribute= "172" >
+</c>
+<c  intAttr= "8442"  newAttribute= "6478" >
+</c>
+<c  intAttr= "8976"  newAttribute= "6242" >
+</c>
+<c  intAttr= "4429"  newAttribute= "2012" >
+</c>
+<c  intAttr= "6403"  newAttribute= "9076" >
+</c>
+<c  intAttr= "5333"  newAttribute= "4101" >
+</c>
+<c  intAttr= "3263"  newAttribute= "8837" >
+</c>
+<c  intAttr= "1059"  newAttribute= "3776" >
+</c>
+<d  intAttr= "3407"  newAttribute= "RandomValue19" >
+</d>
+<d  intAttr= "4222"  newAttribute= "RandomValue4652" >
+</d>
+<d  intAttr= "3272"  newAttribute= "RandomValue6189" >
+</d>
+</b>
+<b  newAttribute= "2615"  x= "RandomValue7490" >
+</b>
+</a>
+<a  ID= "8278"  att1= "5915"  att2= "2645"  att3= "RandomValue5740" >
+<b  newAttribute= "266"  x= "RandomValue344" >
+<c  intAttr= "1781"  newAttribute= "5897" >
+</c>
+<c  intAttr= "137"  newAttribute= "301" >
+</c>
+<c  intAttr= "7125"  newAttribute= "6481" >
+</c>
+<d  intAttr= "1510"  newAttribute= "RandomValue9462" >
+</d>
+</b>
+<b  newAttribute= "9167"  x= "RandomValue9564" >
+<c  intAttr= "9274"  newAttribute= "3069" >
+</c>
+<d  intAttr= "5353"  newAttribute= "RandomValue8244" >
+</d>
+<d  intAttr= "308"  newAttribute= "RandomValue2073" >
+</d>
+<d  intAttr= "4320"  newAttribute= "RandomValue7543" >
+</d>
+<d  intAttr= "3555"  newAttribute= "RandomValue7874" >
+</d>
+<d  intAttr= "5794"  newAttribute= "RandomValue999" >
+</d>
+<d  intAttr= "2931"  newAttribute= "RandomValue8805" >
+</d>
+</b>
+<b  newAttribute= "4085"  x= "RandomValue5229" >
+<c  intAttr= "8837"  newAttribute= "3414" >
+</c>
+<c  intAttr= "4810"  newAttribute= "4884" >
+</c>
+<c  intAttr= "1972"  newAttribute= "7119" >
+</c>
+<c  intAttr= "7800"  newAttribute= "3430" >
+</c>
+<c  intAttr= "1145"  newAttribute= "8104" >
+</c>
+<c  intAttr= "9918"  newAttribute= "3062" >
+</c>
+<c  intAttr= "8654"  newAttribute= "9555" >
+</c>
+<d  intAttr= "1079"  newAttribute= "RandomValue6815" >
+</d>
+<d  intAttr= "8120"  newAttribute= "RandomValue7991" >
+</d>
+<d  intAttr= "3788"  newAttribute= "RandomValue4093" >
+</d>
+<d  intAttr= "2319"  newAttribute= "RandomValue3660" >
+</d>
+<d  intAttr= "625"  newAttribute= "RandomValue7513" >
+</d>
+<d  intAttr= "6054"  newAttribute= "RandomValue3558" >
+</d>
+<d  intAttr= "3178"  newAttribute= "RandomValue6114" >
+</d>
+<d  intAttr= "5390"  newAttribute= "RandomValue6856" >
+</d>
+</b>
+</a>
+<a  ID= "6632"  att1= "5007"  att2= "9071"  att3= "RandomValue476" >
+<b  newAttribute= "2436"  x= "RandomValue6798" >
+<c  intAttr= "6931"  newAttribute= "5811" >
+</c>
+</b>
+<b  newAttribute= "9049"  x= "RandomValue9809" >
+<c  intAttr= "5710"  newAttribute= "5236" >
+</c>
+<c  intAttr= "6898"  newAttribute= "1920" >
+</c>
+<c  intAttr= "6678"  newAttribute= "5391" >
+</c>
+<c  intAttr= "2664"  newAttribute= "8245" >
+</c>
+<c  intAttr= "2786"  newAttribute= "4509" >
+</c>
+<c  intAttr= "2674"  newAttribute= "6475" >
+</c>
+<c  intAttr= "2026"  newAttribute= "5069" >
+</c>
+<c  intAttr= "6464"  newAttribute= "2055" >
+</c>
+<d  intAttr= "9334"  newAttribute= "RandomValue8579" >
+</d>
+</b>
+<b  newAttribute= "8771"  x= "RandomValue5350" >
+<c  intAttr= "2723"  newAttribute= "9982" >
+</c>
+<c  intAttr= "3185"  newAttribute= "6604" >
+</c>
+<d  intAttr= "2037"  newAttribute= "RandomValue8510" >
+</d>
+</b>
+<b  newAttribute= "4258"  x= "RandomValue5886" >
+<c  intAttr= "3306"  newAttribute= "6209" >
+</c>
+<c  intAttr= "2086"  newAttribute= "7939" >
+</c>
+<c  intAttr= "7342"  newAttribute= "8881" >
+</c>
+<c  intAttr= "8646"  newAttribute= "2199" >
+</c>
+<c  intAttr= "1618"  newAttribute= "7174" >
+</c>
+<c  intAttr= "9025"  newAttribute= "1715" >
+</c>
+<d  intAttr= "9498"  newAttribute= "RandomValue5582" >
+</d>
+<d  intAttr= "7151"  newAttribute= "RandomValue7101" >
+</d>
+<d  intAttr= "5913"  newAttribute= "RandomValue1781" >
+</d>
+</b>
+<b  newAttribute= "2896"  x= "RandomValue2140" >
+<d  intAttr= "1191"  newAttribute= "RandomValue6814" >
+</d>
+<d  intAttr= "4692"  newAttribute= "RandomValue5384" >
+</d>
+<d  intAttr= "523"  newAttribute= "RandomValue8111" >
+</d>
+<d  intAttr= "8250"  newAttribute= "RandomValue7267" >
+</d>
+<d  intAttr= "4959"  newAttribute= "RandomValue4158" >
+</d>
+<d  intAttr= "7378"  newAttribute= "RandomValue21" >
+</d>
+<d  intAttr= "3125"  newAttribute= "RandomValue6118" >
+</d>
+</b>
+<b  newAttribute= "8283"  x= "RandomValue5675" >
+<c  intAttr= "2474"  newAttribute= "7905" >
+</c>
+<c  intAttr= "9951"  newAttribute= "3296" >
+</c>
+<c  intAttr= "4576"  newAttribute= "2544" >
+</c>
+<d  intAttr= "4955"  newAttribute= "RandomValue6158" >
+</d>
+<d  intAttr= "2088"  newAttribute= "RandomValue3313" >
+</d>
+<d  intAttr= "8308"  newAttribute= "RandomValue6458" >
+</d>
+<d  intAttr= "2407"  newAttribute= "RandomValue4328" >
+</d>
+<d  intAttr= "764"  newAttribute= "RandomValue5722" >
+</d>
+<d  intAttr= "9713"  newAttribute= "RandomValue5344" >
+</d>
+<d  intAttr= "9985"  newAttribute= "RandomValue1514" >
+</d>
+<d  intAttr= "215"  newAttribute= "RandomValue3139" >
+</d>
+<d  intAttr= "1427"  newAttribute= "RandomValue5756" >
+</d>
+<d  intAttr= "6558"  newAttribute= "RandomValue4640" >
+</d>
+</b>
+<b  newAttribute= "6324"  x= "RandomValue8080" >
+<d  intAttr= "5861"  newAttribute= "RandomValue9686" >
+</d>
+<d  intAttr= "1568"  newAttribute= "RandomValue6955" >
+</d>
+<d  intAttr= "3430"  newAttribute= "RandomValue7019" >
+</d>
+<d  intAttr= "4077"  newAttribute= "RandomValue6654" >
+</d>
+<d  intAttr= "3334"  newAttribute= "RandomValue6137" >
+</d>
+<d  intAttr= "4608"  newAttribute= "RandomValue3538" >
+</d>
+<d  intAttr= "3932"  newAttribute= "RandomValue4559" >
+</d>
+<d  intAttr= "311"  newAttribute= "RandomValue4318" >
+</d>
+</b>
+<b  newAttribute= "9982"  x= "RandomValue3048" >
+<d  intAttr= "7324"  newAttribute= "RandomValue1222" >
+</d>
+<d  intAttr= "3529"  newAttribute= "RandomValue496" >
+</d>
+<d  intAttr= "9715"  newAttribute= "RandomValue2211" >
+</d>
+<d  intAttr= "20"  newAttribute= "RandomValue3202" >
+</d>
+<d  intAttr= "6864"  newAttribute= "RandomValue6204" >
+</d>
+<d  intAttr= "108"  newAttribute= "RandomValue5732" >
+</d>
+</b>
+</a>
+<a  ID= "3419"  att1= "8190"  att2= "9940"  att3= "RandomValue7609" >
+</a>
+<a  ID= "9722"  att1= "323"  att2= "1801"  att3= "RandomValue6984" >
+</a>
+<a  ID= "1879"  att1= "5969"  att2= "9544"  att3= "RandomValue6827" >
+<b  newAttribute= "1469"  x= "RandomValue1690" >
+<c  intAttr= "1600"  newAttribute= "3557" >
+</c>
+<c  intAttr= "3437"  newAttribute= "8156" >
+</c>
+<c  intAttr= "3125"  newAttribute= "6363" >
+</c>
+</b>
+<b  newAttribute= "7287"  x= "RandomValue3937" >
+<c  intAttr= "9761"  newAttribute= "1643" >
+</c>
+<c  intAttr= "8647"  newAttribute= "7361" >
+</c>
+<c  intAttr= "641"  newAttribute= "1661" >
+</c>
+<c  intAttr= "5910"  newAttribute= "5550" >
+</c>
+<c  intAttr= "2380"  newAttribute= "134" >
+</c>
+<c  intAttr= "6297"  newAttribute= "9750" >
+</c>
+<c  intAttr= "5646"  newAttribute= "2220" >
+</c>
+<d  intAttr= "6616"  newAttribute= "RandomValue8416" >
+</d>
+<d  intAttr= "5159"  newAttribute= "RandomValue1813" >
+</d>
+<d  intAttr= "7498"  newAttribute= "RandomValue4291" >
+</d>
+<d  intAttr= "6307"  newAttribute= "RandomValue9812" >
+</d>
+</b>
+<b  newAttribute= "8931"  x= "RandomValue473" >
+<c  intAttr= "6438"  newAttribute= "5923" >
+</c>
+<c  intAttr= "2701"  newAttribute= "7441" >
+</c>
+<c  intAttr= "48"  newAttribute= "6317" >
+</c>
+<c  intAttr= "7018"  newAttribute= "2145" >
+</c>
+<c  intAttr= "3279"  newAttribute= "5624" >
+</c>
+<c  intAttr= "9412"  newAttribute= "3364" >
+</c>
+<c  intAttr= "9797"  newAttribute= "3304" >
+</c>
+<c  intAttr= "7098"  newAttribute= "2993" >
+</c>
+<d  intAttr= "9083"  newAttribute= "RandomValue9449" >
+</d>
+</b>
+<b  newAttribute= "541"  x= "RandomValue9688" >
+<c  intAttr= "7245"  newAttribute= "8350" >
+</c>
+<c  intAttr= "3841"  newAttribute= "369" >
+</c>
+<c  intAttr= "5194"  newAttribute= "8978" >
+</c>
+<c  intAttr= "7023"  newAttribute= "4393" >
+</c>
+<c  intAttr= "8234"  newAttribute= "3934" >
+</c>
+<c  intAttr= "6674"  newAttribute= "9506" >
+</c>
+<c  intAttr= "9351"  newAttribute= "9062" >
+</c>
+<c  intAttr= "8587"  newAttribute= "7433" >
+</c>
+<c  intAttr= "3294"  newAttribute= "3064" >
+</c>
+<d  intAttr= "2230"  newAttribute= "RandomValue9499" >
+</d>
+<d  intAttr= "4397"  newAttribute= "RandomValue1555" >
+</d>
+<d  intAttr= "3089"  newAttribute= "RandomValue1037" >
+</d>
+<d  intAttr= "1302"  newAttribute= "RandomValue9697" >
+</d>
+<d  intAttr= "9491"  newAttribute= "RandomValue3490" >
+</d>
+<d  intAttr= "635"  newAttribute= "RandomValue1816" >
+</d>
+<d  intAttr= "3512"  newAttribute= "RandomValue6093" >
+</d>
+<d  intAttr= "3783"  newAttribute= "RandomValue1351" >
+</d>
+<d  intAttr= "410"  newAttribute= "RandomValue1365" >
+</d>
+</b>
+<b  newAttribute= "1204"  x= "RandomValue6442" >
+<c  intAttr= "8509"  newAttribute= "5715" >
+</c>
+<c  intAttr= "827"  newAttribute= "9781" >
+</c>
+<c  intAttr= "9899"  newAttribute= "3525" >
+</c>
+<c  intAttr= "9974"  newAttribute= "777" >
+</c>
+<c  intAttr= "3333"  newAttribute= "2814" >
+</c>
+<c  intAttr= "4620"  newAttribute= "3667" >
+</c>
+<d  intAttr= "7396"  newAttribute= "RandomValue1140" >
+</d>
+<d  intAttr= "6070"  newAttribute= "RandomValue1027" >
+</d>
+<d  intAttr= "156"  newAttribute= "RandomValue361" >
+</d>
+<d  intAttr= "2405"  newAttribute= "RandomValue370" >
+</d>
+</b>
+</a>
+<a  ID= "6809"  att1= "1567"  att2= "6512"  att3= "RandomValue3932" >
+</a>
+<a  ID= "338"  att1= "8529"  att2= "8532"  att3= "RandomValue8591" >
+</a>
+</E:Root>

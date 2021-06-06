@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xsd:schema xmlns:E="http://www.example.org/E" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ecore:nsPrefix="E" ecore:package="E" targetNamespace="http://www.example.org/E">
+  <xsd:import namespace="http://www.eclipse.org/emf/2002/Ecore" schemaLocation="platform:/plugin/org.eclipse.emf.ecore/model/Ecore.xsd"/>
+  <xsd:element ecore:ignore="true" name="Root" type="E:Root"/>
+  <xsd:element ecore:ignore="true" name="A" type="E:A"/>
+  <xsd:element ecore:ignore="true" name="A2" type="E:A2"/>
+  <xsd:element ecore:ignore="true" name="A1" type="E:A1"/>
+  <xsd:element ecore:ignore="true" name="B" type="E:B"/>
+  <xsd:element ecore:ignore="true" name="C" type="E:C"/>
+  <xsd:element ecore:ignore="true" name="D" type="E:D"/>
+  <xsd:complexType name="Root">
+    <xsd:sequence>
+      <xsd:element ecore:resolveProxies="true" maxOccurs="unbounded" minOccurs="0" name="a" type="E:A"/>
+    </xsd:sequence>
+    <xsd:attribute ecore:name="RootAttr" name="RootAttr" type="ecore:EString"/>
+  </xsd:complexType>
+  <xsd:complexType name="A">
+    <xsd:sequence>
+      <xsd:element ecore:resolveProxies="true" maxOccurs="unbounded" minOccurs="0" name="b" type="E:B"/>
+    </xsd:sequence>
+    <xsd:attribute ecore:name="ID" ecore:unsettable="false" name="ID" type="ecore:EInt" use="required"/>
+    <xsd:attribute ecore:unsettable="false" name="att1" type="ecore:EInt"/>
+    <xsd:attribute ecore:unsettable="false" name="att2" type="ecore:EInt"/>
+    <xsd:attribute name="att3" type="ecore:EString"/>
+  </xsd:complexType>
+  <xsd:complexType name="A2">
+    <xsd:complexContent>
+      <xsd:extension base="E:A">
+        <xsd:attribute name="newAttribute" type="ecore:EString"/>
+      </xsd:extension>
+    </xsd:complexContent>
+  </xsd:complexType>
+  <xsd:complexType name="A1">
+    <xsd:complexContent>
+      <xsd:extension base="E:A">
+        <xsd:attribute name="newAttribute" type="ecore:EString"/>
+      </xsd:extension>
+    </xsd:complexContent>
+  </xsd:complexType>
+  <xsd:complexType name="B">
+    <xsd:sequence>
+      <xsd:element ecore:resolveProxies="true" maxOccurs="unbounded" minOccurs="0" name="c" type="E:C"/>
+      <xsd:element ecore:resolveProxies="true" maxOccurs="unbounded" minOccurs="0" name="d" type="E:D"/>
+    </xsd:sequence>
+    <xsd:attribute ecore:unsettable="false" name="newAttribute" type="ecore:EInt" use="required"/>
+    <xsd:attribute name="x" type="ecore:EString"/>
+  </xsd:complexType>
+  <xsd:complexType name="C">
+    <xsd:attribute ecore:unsettable="false" name="intAttr" type="ecore:EInt" use="required"/>
+    <xsd:attribute ecore:unsettable="false" name="newAttribute" type="ecore:EInt"/>
+  </xsd:complexType>
+  <xsd:complexType name="D">
+    <xsd:attribute ecore:unsettable="false" name="intAttr" type="ecore:EInt" use="required"/>
+    <xsd:attribute name="newAttribute" type="ecore:EString"/>
+  </xsd:complexType>
+</xsd:schema>
